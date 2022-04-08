@@ -1,0 +1,61 @@
+body
+{
+    background-color: silver;
+}
+
+#menu 
+{
+    font-weight: 400;
+    border-color: aquamarine;
+    float: left;
+    width: 100%;
+}
+  
+#menu a 
+{
+    display: block;
+    color: rgb(80, 73, 73);
+    text-align: center;
+    padding: 25px 5px;
+    margin: 1px 0px 0px 0px;
+    border: 1px solid rgb(27, 21, 21);
+  
+}
+  
+#menu a:hover 
+{
+    background-color: rgb(81, 138, 100);
+}
+  
+  
+    
+#tytul menu
+{
+    text-align: center;
+    border-color: slateblue;
+    border: 1px solid black;
+}
+
+#samoloty, #hulajnogi, #samochody
+{
+    text-align: center;
+}
+
+table
+{
+    width: 150px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 5px solid black;
+    text-align: center;
+}
+td
+{
+    border: 3px solid black;
+}
+th
+{
+    font-style:italic;
+    border: 5px solid black;
+}
+
